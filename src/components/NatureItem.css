@@ -1,0 +1,15 @@
+  
+.nature-item img{
+    display: block;
+    width: 100%;
+    height: 300px;
+    cursor: zoom-in;
+}
+.w3-padding {
+    padding: 8px 16px!important;
+}
+.w3-display-topleft {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
